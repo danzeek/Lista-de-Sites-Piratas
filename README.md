@@ -1,4 +1,4 @@
-# Lista de Sites de Dowmload
+# Lista de Sites de Download
 >Lista de sites/ferramentas piratas para o download de diversas coisas
 
 ## Sumário
