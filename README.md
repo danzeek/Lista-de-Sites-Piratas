@@ -13,7 +13,7 @@ Lista de sites/ferramentas piratas para o download de diversas coisas
 - [Rutor](http://rutor.info/) - Tracker russo com todo tipo de coisa e quase nunca tem vírus
 
 ### Sites abertos, com risco de vírus
-- [ThePirateBay](https://thepiratebay.org/) - Todo tipo de torrent, só baixar de usuarios com caveirinhas verdes ou roxas (deixe o usuário 'dauphong' em último caso, porém viável)
+- [ThePirateBay](https://thepiratebay.org/) - Todo tipo de torrent, só baixar de usuarios com caveirinhas verdes ou roxas (deixe o usuário 'dauphong' em último caso, porém viável). [Aqui um print de uma página inteira de torrents falsos (malware) e como identificá-los](http://prntscr.com/neyoga)
 - [1337x](https://1337x.to/) - Site de torrent com todo tipo de coisa similar ao TPB, porém sem garantia de que o link é seguro (deixe o usuário 'igggamescom' em último caso, porém viável)
 
 No TPB e no 1337x qualquer um pode upar qualquer coisa, podendo ser vírus. O TPB possui um sistema de reputação (o das caveirinhas citadas) mas o 1337x não. Tome cuidado ao baixar nesses sites e não ignore alertas de antivirus.
