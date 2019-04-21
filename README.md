@@ -2,7 +2,7 @@
 >Lista de sites/ferramentas piratas para o download de diversas coisas
 
 ## Sumário
-- [Ferramentas](ferramentas)
+- [Ferramentas](#ferramentas)
 - [Séries e Filmes](#séries-e-filmes)
 - [Jogos](#jogos)
 - [ROMS](#roms)
