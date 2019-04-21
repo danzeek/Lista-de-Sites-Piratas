@@ -1,8 +1,8 @@
-# Lista de Sites Piratas por Danzeek
-Lista de sites/ferramentas piratas para o download de diversas coisas
+# Lista de Sites de Dowmload
+>Lista de sites/ferramentas piratas para o download de diversas coisas
 
 ## Sumário
-[Jogos](#jogos)
+- [Jogos](#jogos)
 
 ## JOGOS
 ### Sites 100% confiáveis:
