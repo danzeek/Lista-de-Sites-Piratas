@@ -1,4 +1,4 @@
-# Lista de Sites de Download
+# Lista de Sites de Download v1.0
 >Lista de sites/ferramentas piratas para o download de diversas coisas
 
 ## Sumário
