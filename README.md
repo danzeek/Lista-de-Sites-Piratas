@@ -38,7 +38,7 @@
 - goggamespc7v6z5e.onion - Site no onion com a grande maioria dos jogos do https://www.gog.com/ (loja de jogos), 100% de confiança mesmo estando na deep web. Esse e qualquer outro site .onion só é acessível através do [Tor Browser](https://www.torproject.org/download/).
 - [FitGirl](http://fitgirl-repacks.site/) - Site com instaladores da grande maioria dos jogos AAA, inclusive com tamanho reduzido. Esse site pega cracks já existentes e faz instaladores que pesam muito menos no HD (em alguns casos o jogo pesa somente 50% do tamanho normal), mas demora bastante pra instalar e alguns jogos possuem restrições específicas para funcionar. 100% de confiança (faz também uploads no 1337x e no rutor).
 - [RarBG](https://rarbg.to/index37.php) - Site de torrent que upa os próprios torrents, tem todo tipo de coisa. 100% de confiança se estiver baixando do usuario Scene (eles mesmos).
-- [GamesTorrents](https://www.gamestorrents.io/) - Site espanhol de torrents, contém varios jogos upados por eles mesmos, creio que 100%
+- [GamesTorrents](https://www.gamestorrents.io/) - Site em espanhol de torrents, contém varios jogos upados e creio que 100%
 - [Rutor](http://rutor.info/) - Tracker russo com todo tipo de coisa e quase nunca tem vírus.
 
 ### Sites abertos, com risco de vírus
