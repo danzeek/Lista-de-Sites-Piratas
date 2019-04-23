@@ -20,8 +20,8 @@
 
 ### Microsoft e Adobe
 - [MSToolKit](https://www.reddit.com/r/mstoolkit) - Subreddit dedicado à postagem de cracks para Windows e Office. Basicamente o único lugar onde é possível adquirir cracks com garantia de segurança. Se não funcionar tente [esse link](https://raddle.me/f/MSToolkit).
-  - [KMSpico](https://mega.nz/#F!DiJBwSKQ!QmdtN1HD8v8xQmkBI8gADg) - Crack de Windows e Office (não sei ao certo as versões). Possivelmente a ferramenta mais útil do MSToolKit.
-  - [AMTEmu](https://mega.nz/#F!Wug3HarT!Vh56AkrfxbYCGJ9Qal2I1Q) - Patcher universal dos programas da Adobe (não sei ao certo as versões).
+  - [KMSpico](https://mega.nz/#F!DiJBwSKQ!QmdtN1HD8v8xQmkBI8gADg) - Crack de Windows e Office (Windows Vista até 10 e Office 2010, 2013, 2016 e 365). Possivelmente a ferramenta mais útil do MSToolKit.
+  - [AMTEmu](https://mega.nz/#F!Wug3HarT!Vh56AkrfxbYCGJ9Qal2I1Q) - Patcher universal dos programas da Adobe (CC 2017 a CC 2014).
 - [Windows ISO Downloader](https://www.heidoc.net/php/Windows-ISO-Downloader.exe) - Gerenciador de downloads das imagens intocadas do Windows e Office. Você ainda vai precisar de um crack.
 - [TechBenz](https://tb.rg-adguard.net/public.php) - Similar ao acima, porém é um site e não um programa.
 - [ProDesignTools](https://prodesigntools.com/adobe-cc-2018-direct-download-links.html) - Lista com download direto para os instaladores dos programas da Adobe, com todas as versões desde CS6 a CC 2018.
