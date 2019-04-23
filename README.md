@@ -33,7 +33,7 @@
 - [StreamCR](https://movies.org/) - Site americano com vários filmes e séries em inglês. Não possui legendas.
 
 ## Jogos
->Somente jogos de PC
+>Somente jogos de PC. Não esqueça de instalar o uBlock Origin antes de acessar esses sites
 ### Sites 100% confiáveis:
 - goggamespc7v6z5e.onion - Site no onion com a grande maioria dos jogos do https://www.gog.com/ (loja de jogos), confíavel mesmo estando na deep web. Esse e qualquer outro site .onion só é acessível através do [Tor Browser](https://www.torproject.org/download/).
 - [FitGirl](http://fitgirl-repacks.site/) - Site com instaladores da grande maioria dos jogos AAA, inclusive com tamanho reduzido. Esse site pega cracks já existentes e faz instaladores que pesam muito menos no HD (em alguns casos o jogo pesa somente 50% do tamanho normal), mas o instalador é bem lento e usa muitos recursos do computador. Faz também uploads no 1337x e no Rutor.
