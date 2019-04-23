@@ -9,7 +9,7 @@
 - [Links Úteis](#links-úteis)
 
 ## Ferramentas
->Qualquer indicação de vírus nas ferramentas é um falso-positivo.
+>Ferramentas seguras e sem vírus. Cuidado com o que você baixa.
 
 ### Variados
 - [uBlock Origin](https://github.com/gorhill/uBlock) - **USE O UBLOCK EM TODAS AS PÁGINAS APRESENTADAS.** Ele é uma extensão para navegadores, um bloqueador de anúncios melhorado, que serve também de anti-rastreador e anti-malware.
