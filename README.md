@@ -24,7 +24,7 @@
   - [AMTEmu](https://mega.nz/#F!Wug3HarT!Vh56AkrfxbYCGJ9Qal2I1Q) - Patcher universal dos programas da Adobe (CC 2017 a CC 2014).
 - [Windows ISO Downloader](https://www.heidoc.net/php/Windows-ISO-Downloader.exe) - Gerenciador de downloads das imagens intocadas do Windows e Office. Você ainda vai precisar de um crack.
 - [TechBenz](https://tb.rg-adguard.net/public.php) - Similar ao acima, porém é um site e não um programa.
-- [ProDesignTools](https://prodesigntools.com/adobe-cc-2018-direct-download-links.html) - Lista com download direto para os instaladores dos programas da Adobe, com todas as versões desde CS6 a CC 2018.
+- [ProDesignTools](https://prodesigntools.com/adobe-cc-2018-direct-download-links.html) - Lista com download direto para os instaladores dos programas da Adobe, com todas as versões desde CS6 a CC 2018. Você ainda vai precisar de um crack e instruções. É possível acompanhar tutoriais no YouTube e usar os arquivos daqui.
 
 ## Séries e Filmes
 >Não conheço nenhum site de anime bom, os otacos que se virem
