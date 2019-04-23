@@ -55,7 +55,7 @@
 
 ## Links Úteis
 >Todos em inglês
-- [CrackWatch](https://crackwatch.com/) - Site para checar se algum jogo já foi crackeado.
+- [CrackWatch](https://crackwatch.com/) - Site para checar se algum jogo já foi crackeado. Útil para saber se aquele tutorial do JoãozinhoGameplays de como crackar o GTA VI é fake.
 - [r/Piracy Megathread](https://www.reddit.com/r/piracy/wiki/megathread) - Wiki do subreddit de pirataria, com várias ferramentas e links úteis.
 - [Begginers Guide to CrackWatch](https://www.reddit.com/r/CrackWatch/comments/7gyt85/crack_watch_beginners_guide_to_crack_watch/) - Informações sobre o download de jogos piratas, links e precauções.
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) - Similar à megathread mas com muito mais informação.
