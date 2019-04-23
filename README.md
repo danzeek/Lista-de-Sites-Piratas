@@ -14,7 +14,7 @@
 ### Variados
 - [uBlock Origin](https://github.com/gorhill/uBlock) - **USE O UBLOCK EM TODAS AS PÁGINAS APRESENTADAS.** Ele é uma extensão para navegadores, um bloqueador de anúncios melhorado, que serve também de anti-rastreador e anti-malware.
 - [jDownloader](http://jdownloader.org/jdownloader2) - Gerenciador de downloads (não é um acelerador) útil para baixar várias coisas ao mesmo tempo. Ele consegue atravessar os limites de download diários do Mega, por exemplo, e baixar basicamente qualquer elemento de um site.
-- [qBitTorrent](https://www.qbittorrent.org/download.php) - Client de torrent muito bom, com um sistema de pesquisa incluso e uma interface limpa.
+- [qBitTorrent](https://www.qbittorrent.org/download.php) - Client de torrent muito bom, com um sistema de pesquisa incluso e uma interface limpa. **O UTORRENT E O BITTORRENT NÃO SÃO CONFIÁVEIS.**
 - [WebTorrent](https://webtorrent.io/) - Programa útil para streamar torrents, ou seja, assistir vídeos em torrent sem precisar baixar.
 - [OneClickFirewall](https://winaero.com/comment.php?comment.news.1841) - Programa que possibilita bloquear o acesso a internet de um executável com um clique.
 
