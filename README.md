@@ -42,7 +42,7 @@
 - [GamesTorrents](https://www.gamestorrents.io/) - Site em espanhol de torrents, contém varios jogos upados.
 - [Rutor](http://rutor.info/) - Tracker russo com todo tipo de coisa e quase nunca tem vírus.
 
-### Sites com risco de vírus (contornável)
+### Sites com pequeno risco de vírus (contornável)
 - [ThePirateBay](https://thepiratebay.org/) - Todo tipo de torrent, só baixar de usuarios com caveirinhas verdes ou roxas (deixe o usuário 'dauphong' em último caso, porém viável). [Aqui um print de uma página inteira de torrents falsos (malware) e como identificá-los](http://prntscr.com/neyoga). Excelente para séries e filmes.
 - [1337x](https://1337x.to/) - Site de torrent com todo tipo de coisa similar ao TPB, porém sem garantia de que o link é seguro (deixe o usuário 'igggamescom' em último caso, porém viável).
   - No TPB e no 1337x qualquer um pode upar qualquer coisa, podendo ser vírus. O TPB possui um sistema de reputação (o das caveirinhas citadas) mas o 1337x não. Tome cuidado ao baixar nesses sites e não ignore alertas de antivirus.
