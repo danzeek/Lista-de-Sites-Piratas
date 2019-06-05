@@ -51,7 +51,6 @@
 
 ## ROMS
 >Jogos antigos e emuladores
-- [CoolRom (emuladores)](https://coolrom.com.au/emulators/) - Lista de emuladores para vários consoles.
 - [The Eye](http://the-eye.eu/public/rom/) - Vários jogos, para vários sistemas. Tem um acervo enorme (literalmente 400 jogos só com 'mario' no nome)
 - [Vimm's Lair](https://vimm.net/?p=vault) - Outro site de ROMS, alternativa ao The Eye.
 
