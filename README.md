@@ -41,7 +41,8 @@
 - [RarBG](https://rarbg.to/index37.php) - Site de torrent que upa os próprios torrents, tem todo tipo de coisa. Confiável se estiver baixando do usuario Scene (eles mesmos).
 - [GamesTorrents](https://www.gamestorrents.io/) - Site em espanhol de torrents, contém varios jogos upados.
 - [Rutor](http://rutor.info/) - Tracker russo com todo tipo de coisa e quase nunca tem vírus.
-- [Gerador de Contas de Minecraft](https://fastalts.com/free-minecraft-generator/) - O Nicolas me mandou isso e eu não testei ainda. Não me responsabilizo se o seu PC explodir
+- [Gerador de Contas de Minecraft](https://fastalts.com/free-minecraft-generator/) - Não testei ainda e não me responsabilizo se o seu PC explodir
+- [Outro gerador](https://mcleaks.net/) - Funciona de maneira diferente, também não testei ainda
 
 ### Sites com pequeno risco de vírus (contornável)
 - [ThePirateBay](https://thepiratebay.org/) - Todo tipo de torrent, só baixar de usuarios com caveirinhas verdes ou roxas (deixe o usuário 'dauphong' em último caso, porém viável). [Aqui um print de uma página inteira de torrents falsos (malware) e como identificá-los](http://prntscr.com/neyoga). Excelente para séries e filmes.
