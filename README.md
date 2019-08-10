@@ -17,6 +17,7 @@
 - [qBitTorrent](https://www.qbittorrent.org/download.php) - Client de torrent muito bom, com um sistema de pesquisa incluso e uma interface limpa. **O UTORRENT E O BITTORRENT NÃO SÃO CONFIÁVEIS.**
 - [WebTorrent](https://webtorrent.io/) - Programa útil para fazer o streaming de torrents, ou seja, assistir vídeos em torrent sem precisar baixar.
 - [OneClickFirewall](https://winaero.com/comment.php?comment.news.1841) - Programa que possibilita bloquear o acesso a internet de um executável com um clique.
+- [W3Schools](https://www.downloadroms.io/) - Vários tutoriais de programação e desenvolvimento web gratuitos.
 
 ### Microsoft e Adobe
 - [MSToolKit](https://www.reddit.com/r/mstoolkit) - Subreddit dedicado à postagem de cracks para Windows e Office. Basicamente o único lugar onde é possível adquirir cracks com garantia de segurança. Se não funcionar tente [esse link](https://raddle.me/f/MSToolkit).
@@ -32,6 +33,8 @@
 - [Stremio](https://www.stremio.com/) - O Stremio é um programa de assistir séries e filmes a partir de torrents. Similar ao Popcorn Time, seu acervo é muito maior por conta de seu sistema de integração direta com os torrents de diversos sites e legendas automáticas em vários idiomas. Para aproveitar ao máximo dele, você deve instalar [essas extensões](http://prntscr.com/nezbkb) pelo próprio aplicativo. Com ele, é possível assistir basicamente qualquer mídia que estiver na internet e as legendas funcionam sempre. Entretanto, quase não há material dublado e o aplicativo não possibilita o download - apenas a reprodução dos torrents.
 - [MMFilmes](http://www.mmfilmes.tv/) - Site brasileiro com filmes e séries legendadas e dubladas. Não possibilita o download.
 - [StreamCR](https://movies.org/) - Site americano com vários filmes e séries em inglês. Não possui legendas.
+- [SuperGratis](https://supergratis.biz) - Site de anime que o Orochi usava antigamente
+- [BRanimes](https://www.branimes.com) - Outro site de anime
 
 ## Jogos
 >Somente jogos de PC. Não esqueça de instalar o uBlock Origin antes de acessar esses sites
@@ -54,6 +57,7 @@
 >Jogos antigos e emuladores
 - [The Eye](http://the-eye.eu/public/rom/) - Vários jogos, para vários sistemas. Tem um acervo enorme (literalmente 400 jogos só com 'mario' no nome)
 - [Vimm's Lair](https://vimm.net/?p=vault) - Outro site de ROMS, alternativa ao The Eye.
+- [DownloadRoms](https://www.downloadroms.io/) - Mais um site de ROMS, não sei se é confiável
 
 ## Links Úteis
 >Todos em inglês
