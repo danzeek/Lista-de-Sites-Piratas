@@ -33,6 +33,7 @@
 - [Stremio](https://www.stremio.com/) - O Stremio é um programa de assistir séries e filmes a partir de torrents. Similar ao Popcorn Time, seu acervo é muito maior por conta de seu sistema de integração direta com os torrents de diversos sites e legendas automáticas em vários idiomas. Para aproveitar ao máximo dele, você deve instalar [essas extensões](http://prntscr.com/nezbkb) pelo próprio aplicativo. Com ele, é possível assistir basicamente qualquer mídia que estiver na internet e as legendas funcionam sempre. Entretanto, quase não há material dublado e o aplicativo não possibilita o download - apenas a reprodução dos torrents.
 - [MMFilmes](http://www.mmfilmes.tv/) - Site brasileiro com filmes e séries legendadas e dubladas. Não possibilita o download.
 - [StreamCR](https://movies.org/) - Site americano com vários filmes e séries em inglês. Não possui legendas.
+- [Bludv](https://www.bludv.tv/) - Site de download de filmes e séries. Não testei ainda então não me responsabilizo
 - [SuperGratis](https://supergratis.biz) - Site de anime que o Orochi usava antigamente
 - [BRanimes](https://www.branimes.com) - Outro site de anime
 
