@@ -29,7 +29,7 @@
 - [Sjain_Guides](https://saidit.net/s/sjain_guides) - Guias, downloads e cracks dos produtos da Adobe CC 2018 e 2019 e Office 2019.
 
 ## Séries e Filmes
->Não conheço nenhum site de anime bom, os otacos que se virem
+>pelo amor de deus baixa o ublock origin
 - [Stremio](https://www.stremio.com/) - O Stremio é um programa de assistir séries e filmes a partir de torrents. Similar ao Popcorn Time, seu acervo é muito maior por conta de seu sistema de integração direta com os torrents de diversos sites e legendas automáticas em vários idiomas. Para aproveitar ao máximo dele, você deve instalar [essas extensões](http://prntscr.com/nezbkb) pelo próprio aplicativo. Com ele, é possível assistir basicamente qualquer mídia que estiver na internet e as legendas funcionam sempre. Entretanto, quase não há material dublado e o aplicativo não possibilita o download - apenas a reprodução dos torrents.
 - [MMFilmes](http://www.mmfilmes.tv/) - Site brasileiro com filmes e séries legendadas e dubladas. Não possibilita o download.
 - [StreamCR](https://movies.org/) - Site americano com vários filmes e séries em inglês. Não possui legendas.
@@ -59,6 +59,8 @@
 - [The Eye](http://the-eye.eu/public/rom/) - Vários jogos, para vários sistemas. Tem um acervo enorme (literalmente 400 jogos só com 'mario' no nome)
 - [Vimm's Lair](https://vimm.net/?p=vault) - Outro site de ROMS, alternativa ao The Eye.
 - [DownloadRoms](https://www.downloadroms.io/) - Mais um site de ROMS, não sei se é confiável
+- [Roms Antigas](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Site com um monte de roms de consoles antigos
+- [Roms Recentes](https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/edit#gid=0) - Planilha com várias roms de jogos novos e alguns links para download de jogos de pc
 
 ## Links Úteis
 >Todos em inglês
